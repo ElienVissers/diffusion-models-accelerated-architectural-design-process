@@ -1,4 +1,4 @@
-This repository contains research data and diagrams of research into using transformer models to accelerate the architectural design process.
+This repository contains research data and diagrams of research into using diffusion models to accelerate the architectural design process.
 
 Data was collected from:
 * AC: 68 master students (4th year) of architecture divided in groups of 4
